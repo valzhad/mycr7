@@ -1,4 +1,4 @@
-👋 Hi, I’m Ronalo Santos from Philippines.
+👋 Hi, I’m Valerii from Lviv, Ukraine
 
 👀 I’m interested in software engineering, web development, frontend
 
@@ -6,4 +6,4 @@
 
 💞️ I’m looking to collaborate on high-tech community
 
-📫 How to reach me. email: ronaldo.santosjr27@gmail.com
+📫 How to reach me. email: valeriizhadan7@gmail.com
